@@ -1,0 +1,14 @@
+exchanges:
+  - name: GDAX
+    api_key: your_api_key_here
+    secret_key: your_secret_key_here
+    pass_phrase: your_passphrase_here
+    trading_pairs:
+      - BTC-USD
+      - ETH-USD
+  - name: Binance
+    api_key: your_api_key_here
+    secret_key: your_secret_key_here
+    trading_pairs:
+      - BTCUSDT
+      - ETHUSDT
